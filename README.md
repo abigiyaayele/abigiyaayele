@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**abigiyaayele/abigiyaayele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - FullStack Developer
@@ -22,4 +20,4 @@ abigododa@gmail.com
 
 Languages and Tools:
 android bootstrap cplusplus csharp css3  docker dotnet figma firebase flutter git html5 java javascript linux mssql mysql nodejs opencv php postman python react sqlite tailwind typescript
--->
+
