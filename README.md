@@ -11,9 +11,8 @@ Abigiya Ayele
 
 👯 I’m looking to collaborate on for a software engineering position with a company where I can advance my skills and learn best practices
 
-📫 How to reach me mihretagegnehu2@gmail.com
+📫 How to reach me abigododa@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/1xeSUeps-M2T8qFjfOQQM3Hd351ukohoA/view?usp=sharing
 
 Connect with me:
 abigododa@gmail.com
