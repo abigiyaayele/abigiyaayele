@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **React, Next, Data Science**
 - 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
 - I'm open to working with and collaborating on any project that uses the tools mentioned below.
-📍 I'm based in Ethiopia, Addis Ababa.
-⚡ Fun fact I like to is paint and make illustrations
+- 📍 I'm based in Ethiopia, Addis Ababa.
+- ⚡ Fun fact I like painting and make illustrations
   
 📫 How to reach me abigododa@gmail.com
 
@@ -24,12 +24,4 @@ Connect with me:
 
 
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
