@@ -17,6 +17,5 @@
 Connect with me:
 [LINKEDIN](https://www.linkedin.com/in/abigiya-ayele-167950242)
 
-Languages and Tools:
-android bootstrap cplusplus csharp css3  docker dotnet  git html5 java RESTFULL API javascript linux mssql mysql nodejs opencv php postman python react sqlite tailwind typescript
+
 
