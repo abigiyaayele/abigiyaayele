@@ -3,8 +3,6 @@
 ##### I'm a junior software engineer and an aspiring Data engineer/data scientist.
 - Welcome to my account, feel free to check out any projects I've been working on.
 - I really enjoy coding 👩‍💻, reading, and sketching.
-- I'm currently majoring in software engineering.
-- 🌱 I’m currently learning **React, Next, Data Science**
 - 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
 - I'm open to working with and collaborating on any project that uses the tools mentioned below.
 - 📍 I'm based in Ethiopia, Addis Ababa.
