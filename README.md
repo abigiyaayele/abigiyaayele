@@ -1,6 +1,6 @@
 ##  Hi there 👋 I'm Abigiya Ayele
 
-##### I'm a junior software engineer and an aspiring Data engineer/data scientist.
+##### I'm a junior software engineer and Data engineer/data scientist.
 - Welcome to my account, feel free to check out any projects I've been working on.
 - I really enjoy coding 👩‍💻, reading, and sketching.
 - 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
