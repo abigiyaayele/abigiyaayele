@@ -2,15 +2,38 @@
 
 ##### I'm a junior software engineer and Data engineer/data scientist.
 - Welcome to my account, feel free to check out any projects I've been working on.
-- I really enjoy coding 👩‍💻, reading, and sketching.
-- 👯 I’m looking to collaborate on **for a software engineering position with a company where I can advance my skills and learn best practices**
+- I really enjoy coding 👩‍💻, reading, and sketching.  
 - I'm open to working with and collaborating on any project that uses the tools mentioned below.
 - 📍 I'm based in Ethiopia, Addis Ababa.
-- ⚡ Fun fact I like painting and make illustrations
-  
-📫 How to reach me abigododa@gmail.com
+
+## Key Skills & Expertise:
+
+### 🐍 Python Proficiency:
+Advanced in Python programming for data science, automation, and AI applications.
+
+### 🌐 Web Scraping:
+Expert in Scrapy, BeautifulSoup, and Selenium for efficient data extraction and web scraping.
+
+### 📊 Data Science & Machine Learning:
+Skilled in data exploration, feature engineering, and building predictive models using libraries like Pandas, NumPy, and Scikit-learn.
+
+### 🤖 Deep Learning & AI:
+Hands-on experience with TensorFlow, PyTorch, and Keras for developing neural networks and AI models.
+
+### 🔗 Data Pipelines & APIs:
+Proficient in building and deploying APIs for machine learning applications using FastAPI, Flask, Docker, and CI/CD tools like GitHub Actions and MLflow.
+
+### 📉 Data Visualization:
+Strong in Power BI, Tableau, Matplotlib, and Seaborn for crafting clear and insightful data visualizations and dashboards.
+
+### 🔧 DevOps & CI/CD:
+Skilled in Git, GitHub, and setting up continuous integration/deployment pipelines to streamline development.
+
+### ☁️ Cloud & Automation Tools:
+Experience working with Jupyter Notebook, Streamlit, VSCode, and team collaboration tools like Trello and Slack.
 
 Connect with me:
+📫 How to reach me abigododa@gmail.com
 [LINKEDIN](http://www.linkedin.com/in/abigiya-ayele)
 
 <h3 align="left">Languages and Tools:</h3>
