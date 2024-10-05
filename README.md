@@ -32,7 +32,7 @@ Skilled in Git, GitHub, and setting up continuous integration/deployment pipelin
 ### ☁️ Cloud & Automation Tools:
 Experience working with Jupyter Notebook, Streamlit, VSCode, and team collaboration tools like Trello and Slack.
 
-Connect with me:
+### Connect with me:
 📫 How to reach me: abigododa@gmail.com
 - [LINKEDIN](http://www.linkedin.com/in/abigiya-ayele)
 
