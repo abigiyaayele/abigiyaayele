@@ -1,9 +1,7 @@
 ##  Hi there 👋 I'm Abigiya Ayele
 
-##### I'm a junior software engineer and Data engineer/data scientist.
+##### I'm a junior software engineer and AI engineer/ML.
 - Welcome to my account, feel free to check out any projects I've been working on.
-- I really enjoy coding 👩‍💻, reading, and sketching.  
-- I'm open to working with and collaborating on any project that uses the tools mentioned below.
 
 ## Key Skills & Expertise:
 
